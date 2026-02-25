@@ -106,7 +106,7 @@ export default function AllTweets() {
         <hr style={{ margin: "30px 0" }} />
 
         {/* --- Feed Section --- */}
-        <h2>All Tweets</h2>
+        <h2>All jhfyudhhfhfcjbfgddjchfd</h2>
         {loading && <p>Loading tweets...</p>}
 
         {!loading && tweets.length === 0 ? (
